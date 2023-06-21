@@ -21,7 +21,7 @@ El repositorio está organizado de la siguiente manera:
 - Coursera_courses.csv: Este archivo contiene información sobre los cursos ofrecidos en Coursera, incluyendo el título, la descripción, los instructores, la duración y otros detalles relevantes.
 - Coursera_reviews.csv: Contiene datos de reseñas y comentarios de estudiantes sobre los cursos de Coursera.
 - edx_courses.csv: Contiene información detallada sobre los cursos ofrecidos en la plataforma edX, incluyendo el título, la descripción, los instructores, el nivel y otros atributos.
-- edx_eda.csv: Este archivo es el resultado del proceso de limpieza y transformación de datos realizado durante el análisis exploratorio de los cursos de edX.
+- udemy_courses.csv: Este archivo es el resultado del proceso de limpieza y transformación de datos realizado durante el análisis exploratorio de los cursos de udemy.
 
 ## Jupyter Notebooks
 
